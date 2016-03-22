@@ -1,0 +1,26 @@
+(
+(
+Test1:0.04688,
+Test2:0.07813)
+:0.10938,
+(
+Test3:0.02083,
+Test4:0.10417)
+:0.20313,
+(
+TestSeq1:0.06563,
+TestSeq2:0.03438)
+:0.30938);
+
+
+
+
+0.0	0.1	0.625	0.625	0.625	0.625
+	0.0	0.625	0.5	0.625	0.625
+		0.0	0.125	0.375	0.5
+			0.0	0.375	0.5
+				0.0	0.125
+					0.0
+
+
+I've been around people who smoke a lot and seem to function. You can still tell they're potheads. I wouldn't want to be around someone high anymore than I would want to be around someone drunk. It "opens the mind and brings out creativity"? I'd like to see the evidence for that.

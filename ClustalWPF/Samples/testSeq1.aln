@@ -1,0 +1,10 @@
+CLUSTAL 2.1 multiple sequence alignment
+
+
+Test1           -ACT--TCCGA
+Test2           GACT--TCCG-
+Test3           -ACTT-TCCG-
+Test4           -ACTC-TCCG-
+TestSeq1        -ACTGGGTAGA
+TestSeq2        GACTGGGTAG-
+                 ***    .* 
